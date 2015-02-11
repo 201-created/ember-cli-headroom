@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-headroom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An ember-cli addon for adding content to the head of index.html",
   "directories": {
     "doc": "doc",
