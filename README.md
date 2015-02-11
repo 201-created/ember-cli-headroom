@@ -31,8 +31,8 @@ module.exports = function(env, config) {
     headContent.push('<link rel="dns-prefetch" href="//eager-beaver.com">');
   }
 
-  return config;
-}
+  return headContent;
+};
 ```
 
 And you're off!
